@@ -1,0 +1,10 @@
+body {background-color: #A1CCD1;}
+hr {
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;}
+h1{color: gold;
+   }
+h2{color: bisque;}
